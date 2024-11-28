@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "JavaScript Basics", "description": "Learn JS from scratch", "level": "Beginner", "available": true, "duration": 20, "enrollments": 150, "maxEnrollments": 200, "category": "Programming" },
+    { "id": 2, "name": "Node.js Advanced", "description": "Deep dive into Node.js", "level": "Advanced", "available": false, "duration": 40, "enrollments": 100, "maxEnrollments": 150, "category": "Programming" },
+    { "id": 3, "name": "UI/UX Design Basics", "description": "Learn design principles", "level": "Beginner", "available": true, "duration": 25, "enrollments": 80, "maxEnrollments": 100, "category": "Design" }
+]
